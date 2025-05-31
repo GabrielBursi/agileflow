@@ -18,8 +18,5 @@
     "conventional-changelog-atom": "^5.0.0",
     "husky": "^9.1.7",
     "lint-staged": "^15.5.2"
-  },
-  "dependencies": {
-    "agileflow": "file:"
-  }
+    }
 }
