@@ -1,8 +1,7 @@
 {
-  "name": "refresh-tokens-e-rbac-em-node.js-e-react",
+  "name": "agileflow",
   "version": "1.0.0",
-  "description": "![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)\r ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)\r ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)\r ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)",
-  "main": "index.js",
+  "description": "Uma plataforma de gestão de projetos ágeis moderna implementando metodologias Scrum e Kanban, com foco em segurança e controle granular de acesso baseado em roles (RBAC).",
   "directories": {
     "doc": "docs"
   },
@@ -10,7 +9,7 @@
     "prepare": "husky"
   },
   "keywords": [],
-  "author": "",
+  "author": "Gabriel Bursi",
   "license": "ISC",
   "devDependencies": {
     "@commitlint/cli": "^19.8.1",
