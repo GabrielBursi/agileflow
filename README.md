@@ -121,8 +121,8 @@ A aplicação estará disponível em:
 - [📋 Requisitos](docs/REQUIREMENTS.md) - Requisitos funcionais e não funcionais
 - [🏗️ System Design](docs/SYSTEM_DESIGN.md) - Arquitetura e design do sistema
 - [🗃️ Database Design](docs/DATABASE.md) - Modelo de dados e otimizações
-- [🔧 API Documentation](docs/API.md) - Documentação da API REST
-- [🏛️ Architecture](docs/ARCHITECTURE.md) - Detalhes da arquitetura DDD
-- [🚀 Deployment](docs/DEPLOYMENT.md) - Guia de deploy e configuração
+- [🔧 API Documentation](docs/API.md) - Documentação da API REST *(em construção 🚧)*
+- [🏛️ Architecture](docs/ARCHITECTURE.md) - Detalhes da arquitetura DDD *(em construção 🚧)*
+- [🚀 Deployment](docs/DEPLOYMENT.md) - Guia de deploy e configuração *(em construção 🚧)*
 
 
